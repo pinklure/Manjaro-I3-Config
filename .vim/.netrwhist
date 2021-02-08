@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/sinow/.i3'
+let g:netrw_dirhist_3='/home/sinow/.config/xfce4/terminal'
+let g:netrw_dirhist_2='/home/sinow/.config/xfce4'
+let g:netrw_dirhist_1='/home/sinow/.config'
