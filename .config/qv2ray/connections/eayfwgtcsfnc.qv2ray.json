@@ -1,0 +1,25 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "shadowsocksr",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "address": "advanced-cm-1.host-sub.com",
+                "group": "忍者云",
+                "method": "chacha20-ietf",
+                "obfs": "plain",
+                "obfs_param": "324a9101568.microsoft.com",
+                "password": "renzhecloud",
+                "port": 3030,
+                "protocol": "auth_aes128_sha1",
+                "protocol_param": "101568:rKRQXU",
+                "remarks": "Advanced|R|台湾01|2.0|NF*"
+            },
+            "streamSettings": {
+            },
+            "tag": "outBound_PROXY"
+        }
+    ]
+}
