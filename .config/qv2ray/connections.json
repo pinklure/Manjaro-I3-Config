@@ -5,7 +5,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 67,
         "stats": [
         ]
     },
@@ -15,7 +15,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 174,
+        "latency": 126,
         "stats": [
         ]
     },
@@ -25,7 +25,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 81,
         "stats": [
         ]
     },
@@ -35,7 +35,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 73,
         "stats": [
         ]
     },
@@ -45,7 +45,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 106,
+        "latency": 97,
         "stats": [
         ]
     },
@@ -55,7 +55,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 191,
+        "latency": 138,
         "stats": [
         ]
     },
@@ -65,7 +65,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 172,
+        "latency": 133,
         "stats": [
         ]
     },
@@ -75,7 +75,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 71,
         "stats": [
         ]
     },
@@ -85,7 +85,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 136,
         "stats": [
         ]
     },
@@ -95,7 +95,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 105,
         "stats": [
         ]
     },
@@ -103,13 +103,13 @@
         "creationDate": 1612774571,
         "displayName": "*Ultimate|IEPL广港02|3.0",
         "importSource": 1,
-        "lastConnected": 1612774810,
+        "lastConnected": 1612782628,
         "lastUpdatedDate": 1612774571,
-        "latency": 155,
+        "latency": 140,
         "stats": [
             {
-                "downLinkData": 0,
-                "upLinkData": 0
+                "downLinkData": 2434351,
+                "upLinkData": 195058
             }
         ]
     },
@@ -119,7 +119,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 187,
+        "latency": 135,
         "stats": [
         ]
     },
@@ -129,7 +129,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 189,
+        "latency": 117,
         "stats": [
         ]
     },
@@ -139,7 +139,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 62,
         "stats": [
         ]
     },
@@ -149,7 +149,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 74,
         "stats": [
         ]
     },
@@ -159,7 +159,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 67,
         "stats": [
         ]
     },
@@ -169,7 +169,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 63,
         "stats": [
         ]
     },
@@ -179,7 +179,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 78,
         "stats": [
         ]
     },
@@ -189,7 +189,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 76,
         "stats": [
         ]
     },
@@ -199,7 +199,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 100,
         "stats": [
         ]
     },
@@ -209,7 +209,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 157,
+        "latency": 717,
         "stats": [
         ]
     },
@@ -219,7 +219,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 65,
         "stats": [
         ]
     },
@@ -229,7 +229,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 172,
+        "latency": 141,
         "stats": [
         ]
     },
@@ -239,7 +239,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 291,
         "stats": [
         ]
     },
@@ -249,7 +249,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 71,
         "stats": [
         ]
     },
@@ -259,7 +259,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 70,
         "stats": [
         ]
     },
@@ -269,7 +269,7 @@
         "importSource": 1,
         "lastConnected": 1612774584,
         "lastUpdatedDate": 1612774571,
-        "latency": 151,
+        "latency": 514,
         "stats": [
             {
                 "downLinkData": 0,
@@ -283,7 +283,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 103,
         "stats": [
         ]
     },
@@ -293,7 +293,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 190,
+        "latency": 140,
         "stats": [
         ]
     },
@@ -303,7 +303,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 76,
         "stats": [
         ]
     },
@@ -311,10 +311,14 @@
         "creationDate": 1612774571,
         "displayName": "*Ultimate|IEPL广日02|3.0",
         "importSource": 1,
-        "lastConnected": 0,
+        "lastConnected": 1612836910,
         "lastUpdatedDate": 1612774571,
-        "latency": 155,
+        "latency": 137,
         "stats": [
+            {
+                "downLinkData": 270403663,
+                "upLinkData": 17698819
+            }
         ]
     },
     "smleslevojaf": {
@@ -323,7 +327,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 67,
         "stats": [
         ]
     },
@@ -333,7 +337,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 191,
+        "latency": 128,
         "stats": [
         ]
     },
@@ -343,7 +347,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 168,
+        "latency": 134,
         "stats": [
         ]
     },
@@ -353,7 +357,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 178,
+        "latency": 138,
         "stats": [
         ]
     },
@@ -363,7 +367,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 90,
         "stats": [
         ]
     },
@@ -373,7 +377,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 171,
+        "latency": 129,
         "stats": [
         ]
     },
@@ -383,7 +387,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 190,
+        "latency": 136,
         "stats": [
         ]
     },
@@ -393,7 +397,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 178,
+        "latency": 138,
         "stats": [
         ]
     },
@@ -413,7 +417,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 79,
         "stats": [
         ]
     },
@@ -423,7 +427,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 165,
+        "latency": 131,
         "stats": [
         ]
     },
@@ -433,7 +437,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 63,
         "stats": [
         ]
     },
@@ -443,7 +447,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 77,
         "stats": [
         ]
     },
@@ -453,7 +457,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 72,
         "stats": [
         ]
     },
@@ -463,7 +467,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 63,
         "stats": [
         ]
     },
@@ -473,7 +477,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 70,
         "stats": [
         ]
     },
@@ -493,7 +497,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 75,
         "stats": [
         ]
     },
@@ -503,7 +507,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 78,
         "stats": [
         ]
     },
@@ -513,7 +517,7 @@
         "importSource": 1,
         "lastConnected": 0,
         "lastUpdatedDate": 1612774571,
-        "latency": 99999,
+        "latency": 71,
         "stats": [
         ]
     }
