@@ -139,5 +139,4 @@ ex ()
 }
 
 
-
-alias duel=/home/sinow/.screenlayout/vertical.sh
+alias dockrmall='docker stop $(docker ps -qa) && docker rm $(docker ps -qa)'

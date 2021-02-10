@@ -311,13 +311,13 @@
         "creationDate": 1612774571,
         "displayName": "*Ultimate|IEPL广日02|3.0",
         "importSource": 1,
-        "lastConnected": 1612836910,
+        "lastConnected": 1612850792,
         "lastUpdatedDate": 1612774571,
-        "latency": 137,
+        "latency": 99999,
         "stats": [
             {
-                "downLinkData": 270403663,
-                "upLinkData": 17698819
+                "downLinkData": 302315352,
+                "upLinkData": 21695045
             }
         ]
     },
@@ -355,10 +355,14 @@
         "creationDate": 1612774571,
         "displayName": "*Ultimate|IEPL广港05|3.0",
         "importSource": 1,
-        "lastConnected": 0,
+        "lastConnected": 1612958425,
         "lastUpdatedDate": 1612774571,
-        "latency": 138,
+        "latency": 99999,
         "stats": [
+            {
+                "downLinkData": 21710332,
+                "upLinkData": 2139440
+            }
         ]
     },
     "tpohjzuwuacd": {
@@ -425,10 +429,14 @@
         "creationDate": 1612774571,
         "displayName": "*Ultimate|IEPL广港01|3.0",
         "importSource": 1,
-        "lastConnected": 0,
+        "lastConnected": 1612955558,
         "lastUpdatedDate": 1612774571,
-        "latency": 131,
+        "latency": 99999,
         "stats": [
+            {
+                "downLinkData": 103743040,
+                "upLinkData": 9550808
+            }
         ]
     },
     "wlbkwegycmel": {

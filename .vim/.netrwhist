@@ -1,5 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/usr/share/themes/Adapta-Eta-Maia'
+let g:netrw_dirhist_7='/usr/share/lxappearance/ui'
+let g:netrw_dirhist_6='/etc/elasticsearch'
+let g:netrw_dirhist_5='/home/sinow/workspace/docker_workspace/identidock/app'
 let g:netrw_dirhist_4='/home/sinow/.i3'
 let g:netrw_dirhist_3='/home/sinow/.config/xfce4/terminal'
 let g:netrw_dirhist_2='/home/sinow/.config/xfce4'
