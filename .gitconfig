@@ -1,0 +1,7 @@
+#[http]
+#	proxy = http://localhost:8889
+[user]
+	email = zhaoqifan0106@qq.com
+	name = SinowX
+#[https]
+#	proxy = http://localhost:8889
