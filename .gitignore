@@ -18,12 +18,10 @@
 !.gitconfig
 !.profile
 !.vimrc
-!.Xauthority
+#!.Xauthority
 !.Xclients
 !.xinitrc
 !.xprofile
 !.Xresources
 !.zshrc
-!.gitignore
-#*
-#*/
+#!.gitignore
