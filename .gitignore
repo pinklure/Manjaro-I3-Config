@@ -1,5 +1,4 @@
 /*
-#/*
 
 
 !.config/
@@ -11,17 +10,14 @@
 !.vim/
 
 
-
-#*
+!.gitignore
 !.bashrc
 !.dmenurc
 !.gitconfig
 !.profile
 !.vimrc
-#!.Xauthority
 !.Xclients
 !.xinitrc
 !.xprofile
 !.Xresources
 !.zshrc
-#!.gitignore

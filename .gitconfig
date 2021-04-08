@@ -5,3 +5,5 @@
 	name = SinowX
 #[https]
 #	proxy = http://localhost:8889
+[pull]
+	rebase = true
