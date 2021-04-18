@@ -75,14 +75,14 @@ if ${use_color} ; then
 		PS1='\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] '
 	fi
 
-#	alias ls='ls --color=auto'
-#	alias grep='grep --colour=auto'
-#	alias egrep='egrep --colour=auto'
-#	alias fgrep='fgrep --colour=auto'
-	alias ls='ls --color=always'
-	alias grep='grep --colour=always'
-	alias egrep='egrep --colour=always'
-	alias fgrep='fgrep --colour=always'
+	alias ls='ls --color=auto'
+	alias grep='grep --colour=auto'
+	alias egrep='egrep --colour=auto'
+	alias fgrep='fgrep --colour=auto'
+	#alias ls='ls --color=always'
+	#alias grep='grep --colour=always'
+	#alias egrep='egrep --colour=always'
+	#alias fgrep='fgrep --colour=always'
 else
 	if [[ ${EUID} == 0 ]] ; then
 		# show root@ when we don't have colors

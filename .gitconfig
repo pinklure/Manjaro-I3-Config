@@ -7,3 +7,5 @@
 #	proxy = http://localhost:8889
 [pull]
 	rebase = true
+[init]
+	defaultBranch = trunk
