@@ -37,12 +37,10 @@
 !.gitignore
 !.bash_logout
 !.bash_profile
-!.bash_history
 !.bashrc
 !.dir_colors
 !.dmenurc
 !.dmrc
-!.gitconfig
 !.gtk-bookmarks
 !.gtkrc-2.0
 !.profile
