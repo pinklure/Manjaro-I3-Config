@@ -149,3 +149,6 @@ alias dockrmall='docker stop $(docker ps -qa) && docker rm $(docker ps -qa)'
 alias skype='export https_proxy=localhost:8889 && skypeforlinux'
 alias ll='ls -l --color=always'
 alias env='env | sort'
+
+export HISTSIZE=2000
+export HISTFILESIZE=2000

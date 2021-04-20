@@ -1,0 +1,74 @@
+1、修改 .Xresources dpi 
+2、安装 linux 翻墙包
+3、git clone https://github.com/SinowX/Manjaro-I3-Config，恢复home目录中的配置文件
+\cp -r `ls -al | grep '\B\.[^.].*' -o` ~/  //将clone下来的文件复制到home目录
+4、配置国内镜像源
+sudo pacman-mirrors -i -c China -m rank
+sudo nano /etc/pacman.conf
+
+vim /etc/pacman.conf
+[archlinuxcn]
+Server = https://mirrors.aliyun.com/archlinuxcn/$arch
+//SigLevel 不用
+
+pacman-mirrors -g //使配置生效
+
+pacman -Sy 更新本地包数据库
+
+pacman -S wqy-microhei 解决中文方块问题
+
+pacman -Syyu //全面更新系统
+
+pacman -S archlinuxcn-keyring //防止PGP签名错误
+
+5、双系统同步时间
+timedatectl status 
+timedatectl set-local-rtc true
+
+vim /etc/systemd/timesyncd.conf
+取消#NTP的注释
+改为
+NTP=time1.aliyun.com time2.aliyun.com time3.aliyun.com time4.aliyun.com time5.aliyun.com time6.aliyun.com time7.aliyun.com
+
+6、优化中文显示效果
+
+先安装
+sudo pacman -S ttf-roboto noto-fonts ttf-dejavu
+# 文泉驿
+sudo pacman -S wqy-bitmapfont wqy-microhei wqy-microhei-lite wqy-zenhei
+# 思源字体
+sudo pacman -S noto-fonts-cjk adobe-source-han-sans-cn-fonts adobe-source-han-serif-cn-fonts</pre>
+
+编辑 ~/.config/fontconfig/fonts.conf
+此处应该在 clone git 项目时已经做好
+
+7、安装fcitx
+pacman -S fcitx fcitx-m fcitx-configtool
+pacman -S fcitx-sunpinyin
+编辑 ~/.xprofile
+此处应该在 clone git 项目时已经做好
+
+
+8、解决locate使用问题
+sudo updatedb && locate -e bench-repo
+
+9、pkg list
+
+* xfce4-terminal
+* yay
+* google-chrome
+* unzip
+* net-tools
+* snapd
+* albert
+* fcitx
+* debtap
+* typora
+* flameshot
+* pycharm
+* eclipse
+* firefox
+* visual-studio-code-bin
+* skypeforlinux-stable-bin
+
+

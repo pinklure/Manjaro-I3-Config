@@ -11,12 +11,14 @@
 !.config/flameshot/
 !.config/fontconfig/
 !.config/gtk-3.0/
+!.config/i3status/
 !.config/Kvantum/
 !.config/libfm/
 !.config/morc_menu/
 !.config/nitrogen/
 !.config/pcmanfm/
 !.config/ranger/
+#!.config/Typora/
 !.config/xfce4/
 !.config/mimeapps.list
 !.config/picom.conf
@@ -26,11 +28,11 @@
 
 !.i3/
 !.icons/
+!.initsrc/
 !.moc
 !.screenlayout/
 !.sunpinyin/
 !.vim/
-
 
 
 #File
