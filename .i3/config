@@ -9,7 +9,7 @@ bindsym Mod1+Shift+d exec --no-startup-id killall -s 9 qv2ray
 
 # Auto Exec
 #exec --no-startup-id /home/sinow/ProgramFile/qv2ray/qv2ray
-#exec --no-startup-id albert
+exec --no-startup-id albert
 exec --no-startup-id /home/sinow/.screenlayout/mylayout.sh
 #exec --no-startup-id /home/sinow/ProgramFile/qv2ray/qv2ray
 # exec /home/sinow/.screenlayout/dualScreen.sh
