@@ -3,9 +3,9 @@ mouse_warping none
 
 
 # Bindsym
-bindsym Mod1+Shift+v exec --no-startup-id /home/sinow/ProgramFile/qv2ray/qv2ray
+#bindsym Mod1+Shift+v exec --no-startup-id /home/sinow/ProgramFile/qv2ray/qv2ray
 bindsym Mod1+Shift+a exec --no-startup-id flameshot gui
-bindsym Mod1+Shift+d exec --no-startup-id killall -s 9 qv2ray
+#bindsym Mod1+Shift+d exec --no-startup-id killall -s 9 qv2ray
 
 # Auto Exec
 #exec --no-startup-id /home/sinow/ProgramFile/qv2ray/qv2ray
@@ -13,7 +13,7 @@ exec --no-startup-id albert
 exec --no-startup-id /home/sinow/.screenlayout/mylayout.sh
 #exec --no-startup-id /home/sinow/ProgramFile/qv2ray/qv2ray
 # exec /home/sinow/.screenlayout/dualScreen.sh
-#exec fcitx
+exec --no-startup-id fcitx
 # exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 # Contrain focused Window
@@ -81,7 +81,7 @@ bindsym $mod+Ctrl+m exec terminal -e 'alsamixer'
 
 # Start Applications
 bindsym $mod+Ctrl+b exec terminal -e 'bmenu'
-bindsym $mod+F2 exec google-chrome-stable --proxy-server="socks5://127.0.0.1:1089"
+bindsym $mod+F2 exec google-chrome-stable --proxy-server="socks5://127.0.0.1:7891"
 bindsym $mod+F3 exec pcmanfm
 # bindsym $mod+F3 exec ranger
 bindsym $mod+Shift+F3 exec pcmanfm_pkexec
@@ -241,6 +241,9 @@ for_window [class="(?i)virtualbox"] floating enable border normal
 for_window [class="Xfburn"] floating enable
 for_window [class="netease-cloud-music"] floating enable, resize set 1100px 760px
 for_window [class="qv2ray"] floating enable, resize set 1100px 760px
+for_window [class="tim.exe"] floating enable, resize set 1100px 760px
+
+
 
 # switch to workspace with urgent window automatically
 for_window [urgent=latest] focus

@@ -149,7 +149,7 @@ alias dockrmall='docker stop $(docker ps -qa) && docker rm $(docker ps -qa)'
 alias skype='export https_proxy=localhost:8889 && skypeforlinux'
 alias ll='ls -l --color=always'
 alias env='env | sort'
-alias restore='/home/sinow/.screenlayout/mylayout.sh && sleep 1 && nohup  nitrogen --restore >/dev/null &'
+alias restore='/home/sinow/.screenlayout/mylayout.sh  && sleep 1 && nohup  nitrogen --restore >/dev/null 2>&1 &'
 
 
 export HISTSIZE=2000
