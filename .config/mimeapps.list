@@ -18,6 +18,7 @@ message/rfc822=userapp-Thunderbird.desktop
 application/pdf=firefox.desktop
 application/x-bittorrent=deluge.desktop
 x-scheme-handler/baiduyunguanjia=baidunetdisk.desktop
+x-scheme-handler/postman=Postman.desktop
 
 [Added Associations]
 x-scheme-handler/http=google-chrome.desktop;

@@ -146,11 +146,17 @@ ex ()
 alias dockrmall='docker stop $(docker ps -qa) && docker rm $(docker ps -qa)'
 #alias vscode=/opt/visual-studio-code/code
 #alias skype=skypeforlinux
-alias skype='export https_proxy=localhost:8889 && skypeforlinux'
+alias skype='https_proxy=localhost:7890 skypeforlinux'
 alias ll='ls -l --color=always'
 alias env='env | sort'
 alias restore='/home/sinow/.screenlayout/mylayout.sh  && sleep 1 && nohup  nitrogen --restore >/dev/null 2>&1 &'
 
 
-export HISTSIZE=2000
-export HISTFILESIZE=2000
+#export HISTSIZE=2000
+#export HISTFILESIZE=2000
+export HISTSIZE=-1
+export HISTFILESIZE=-1
+
+#alias go='https_proxy=127.0.0.1:7890 go'
+
+alias path='echo $PATH | tr ":" "\n" |sort'
