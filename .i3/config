@@ -241,8 +241,8 @@ for_window [class="(?i)virtualbox"] floating enable border normal
 for_window [class="Xfburn"] floating enable
 for_window [class="netease-cloud-music"] floating enable, resize set 1100px 760px
 for_window [class="qv2ray"] floating enable, resize set 1100px 760px
-for_window [class="tim.exe"] floating enable, resize set 1100px 760px
-
+for_window [class="TIM.exe"] floating enable, resize set 1100px 760px
+for_window [class="baidunetdisk"] floating enable, resize set 1280px 800px
 
 
 # switch to workspace with urgent window automatically

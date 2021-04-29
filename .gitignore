@@ -36,6 +36,7 @@
 
 
 #File
+!.gitconfig
 !.gitignore
 !.bash_logout
 !.bash_profile

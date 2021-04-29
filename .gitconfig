@@ -1,0 +1,5 @@
+[user]
+	name = sinow
+	email = zhaoqifan0106@qq.com
+[https]
+	proxy = http://localhost:7890
