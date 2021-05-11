@@ -1,0 +1,99 @@
+{
+  "local_storage": {
+    "search-bar-history-search-for-sc": [
+      "table",
+      "bookmark"
+    ],
+    "simple_input_history_net_search_url": [
+      "https://google.com/search?q={q}"
+    ]
+  },
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAD////+/////gAAAhwAAAK9AAAAAAAAAAAAAAIaAAACuwAAAAAAAAAABDgAAAAAAAAAAAAAAhoAAAK7"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAADjAAACvPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAACvAAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmQD///8AAAABAAABAAAAArz8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB/AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAAAAACvAAAAOkA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAACGwAAArwAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "*myCobalt",
+    "footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "header": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "hide_tooltips": null,
+    "highlight_style": {
+      "kind": "color",
+      "type": "builtin",
+      "which": "yellow"
+    },
+    "keyboard_shortcuts": {},
+    "left-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "lines_per_sec_smooth": 5,
+    "override_book_colors": "always",
+    "read_mode": "flow",
+    "right-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "scroll_stop_boundaries": true,
+    "selection_bar_actions": [
+      "copy"
+    ],
+    "show_selection_bar": true,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {},
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "俞甲子 石凡 潘爱民"
+        ],
+        "key": "/home/sinow/Documents/程序员的自我修养.epub",
+        "pathtoebook": "/home/sinow/Documents/程序员的自我修养.epub",
+        "timestamp": "2021-05-11T12:39:58.289Z",
+        "title": "程序员的自我修养：链接、装载与库"
+      }
+    ],
+    "user_color_schemes": {
+      "*myCobalt": {
+        "background": "#131b28",
+        "foreground": "#d9d9d9",
+        "link": "#71bfd9",
+        "margin_bottom": "#131b28:#efb752",
+        "margin_left": "#131b28:#efb752",
+        "margin_right": "#131b28:#efb752",
+        "margin_top": "#131b28:#efb752",
+        "name": "myCobalt"
+      },
+      "*mydark": {
+        "background": "#131b28",
+        "foreground": "#d9d9d9",
+        "link": "#71bfd9",
+        "margin_bottom": "#131b28:#efb752",
+        "margin_left": "#131b28:#efb752",
+        "margin_right": "#131b28:#efb752",
+        "margin_top": "#131b28:#efb752",
+        "name": "mydark"
+      }
+    }
+  }
+}

@@ -5,6 +5,7 @@
 .config/*
 !.config/albert/
 !.config/autostart/
+!.config/calibre/
 !.config/dmenu-recent/
 !.config/dunst/
 !.config/fcitx5/
