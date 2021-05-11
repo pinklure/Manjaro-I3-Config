@@ -156,8 +156,8 @@ alias restore='/home/sinow/.screenlayout/mylayout.sh  && sleep 1 && nohup  nitro
 
 #export HISTSIZE=2000
 #export HISTFILESIZE=2000
-export HISTSIZE=-1
-export HISTFILESIZE=-1
+export HISTSIZE=1000
+export HISTFILESIZE=1000
 
 #alias go='https_proxy=127.0.0.1:7890 go'
 

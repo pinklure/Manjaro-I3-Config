@@ -20,7 +20,8 @@ XTerm*selectToClipboard: true
 *fadeColor:                       black
 *cursorColor:                     #1ABB9B
 *pointerColorBackground:          #2B2C2B
-*pointerColorForeground:          #16A085
+#*pointerColorForeground:          #16A085
+*pointerColorForeground:          #FFE454
 
 !! black dark/light
 *color0:                          #222D31
