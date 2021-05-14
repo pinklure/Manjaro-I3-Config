@@ -370,11 +370,11 @@ set_from_resource $term_color15    color15
 
    colors {
 #        background #222D31
-	#background #1a355b
-	background #791F1F        
-	#statusline #F9FAF9
-#        statusline #C9BD93
-	statusline #EFDEA0
+	background #1a355b
+	#background #791F1F        
+	statusline #F9FAF9
+        #statusline #C9BD93
+	#statusline #EFDEA0
 	separator  #454947
 
 ##                      border  backgr. text
