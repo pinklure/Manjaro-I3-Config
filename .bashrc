@@ -147,6 +147,7 @@ alias dockrmall='docker stop $(docker ps -qa) && docker rm $(docker ps -qa)'
 #alias vscode=/opt/visual-studio-code/code
 #alias skype=skypeforlinux
 alias skype='https_proxy=localhost:7890 skypeforlinux'
+alias pip='https_proxy=http://localhost:7890 pip'
 alias ll='ls -l --color=always'
 alias la='ls -a --color=always'
 alias lla='ls -al --color=always'

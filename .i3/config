@@ -243,7 +243,7 @@ for_window [class="netease-cloud-music"] floating enable, resize set 1100px 760p
 for_window [class="qv2ray"] floating enable, resize set 1100px 760px
 for_window [class="TIM.exe"] floating enable, resize set 1100px 760px
 for_window [class="baidunetdisk"] floating enable, resize set 1280px 800px
-
+for_window [class="flameshot"] floating enable
 
 # switch to workspace with urgent window automatically
 for_window [urgent=latest] focus

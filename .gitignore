@@ -6,22 +6,27 @@
 !.config/albert/
 !.config/autostart/
 !.config/calibre/
+!.config/clash/
 !.config/dmenu-recent/
 !.config/dunst/
 !.config/fcitx5/
 !.config/flameshot/
 !.config/fontconfig/
+!.config/gconf/
 !.config/gtk-3.0/
 !.config/i3status/
 !.config/Kvantum/
 !.config/libfm/
 !.config/morc_menu/
+!.config/Mousepad/
 !.config/nitrogen/
 !.config/pcmanfm/
+!.config/at5ct/
 !.config/ranger/
 #!.config/Typora/
 !.config/xfce4/
 !.config/mimeapps.list
+!.config/picom.conf
 !.config/picom.conf
 
 #!.config/
