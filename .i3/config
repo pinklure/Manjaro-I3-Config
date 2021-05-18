@@ -81,7 +81,7 @@ bindsym $mod+Ctrl+m exec terminal -e 'alsamixer'
 
 # Start Applications
 bindsym $mod+Ctrl+b exec terminal -e 'bmenu'
-bindsym $mod+F2 exec google-chrome-stable --proxy-server="socks5://127.0.0.1:7891"
+bindsym $mod+F2 exec google-chrome-stable --proxy-server="http://127.0.0.1:7890"
 bindsym $mod+F3 exec pcmanfm
 # bindsym $mod+F3 exec ranger
 bindsym $mod+Shift+F3 exec pcmanfm_pkexec

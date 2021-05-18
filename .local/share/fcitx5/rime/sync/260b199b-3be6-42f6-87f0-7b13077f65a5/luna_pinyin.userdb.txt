@@ -1,0 +1,82 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	83
+#@/user_id	260b199b-3be6-42f6-87f0-7b13077f65a5
+bao cun 	保存	c=3 d=2.82868 t=53
+biao zhun 	標準	c=0 d=0.1 t=75
+bu 	不	c=0 d=0.1 t=12
+bu shi 	不是	c=0 d=0.1 t=0
+bu xiu gai 	不修改	c=1 d=1 t=13
+can shu 	參數	c=0 d=0.1 t=14
+can shu zhi 	參數值	c=1 d=1 t=15
+cao zuo 	操作	c=0 d=0.1 t=67
+cheng gong 	成功	c=1 d=0.80822 t=71
+cuo wu 	錯誤	c=2 d=1.99501 t=5
+dang qian 	當前	c=0 d=0.1 t=44
+dang qian zhi 	當前值	c=1 d=1 t=45
+dang ran 	當然	c=0 d=0.1 t=0
+dang ran bu shi 	當然不是	c=1 d=1 t=1
+de 	的	c=4 d=3.4606 t=70
+deng tong yu 	等同於	c=1 d=1 t=20
+diao yong 	調用	c=1 d=1 t=66
+dui 	對	c=2 d=1.75201 t=69
+dui qi 	對其	c=1 d=1 t=49
+fan hui 	返回	c=2 d=1.98511 t=6
+fan ti 	繁體	c=1 d=1 t=10
+fan ti zi 	繁體字	c=1 d=1 t=8
+fei 	非	c=0 d=0.1 t=20
+fei te quan 	非特權	c=1 d=1 t=21
+guan bi 	關閉	c=1 d=1 t=9
+gui fan 	規範	c=1 d=1 t=78
+he 	和	c=2 d=1.88692 t=52
+huo 	或	c=2 d=1.84789 t=73
+huo qu 	獲取	c=1 d=1 t=81
+ji 	級	c=1 d=1 t=46
+jia ru 	加入	c=0 d=0.1 t=75
+jiang 	將	c=1 d=0.952144 t=56
+jin cheng 	進程	c=2 d=1.8825 t=47
+jun shi 	均是	c=1 d=1 t=67
+liang ge 	兩個	c=1 d=1 t=65
+neng gou 	能夠	c=2 d=1.8825 t=48
+qi ta 	其他	c=1 d=1 t=79
+qing qiu 	請求	c=0 d=0.1 t=70
+qu xiao 	取消	c=1 d=1 t=7
+quan bu 	全部	c=1 d=1.09851 t=74
+quan bu cheng gong 	全部成功	c=1 d=1 t=72
+ren yi 	任一	c=2 d=1.956 t=44
+ren yi 	任意	c=1 d=1.00032 t=55
+ren yi she zhi 	任意設置	c=1 d=1 t=56
+ru 	如	c=1 d=1 t=19
+ruo 	若	c=1 d=1 t=11
+she zhi 	設置	c=2 d=1.96255 t=60
+she zhi wei 	設置爲	c=1 d=1 t=36
+shi bai 	失敗	c=1 d=1 t=75
+shi ji 	實際	c=1 d=1.09371 t=37
+shi ji yong hu 	實際用戶	c=2 d=1.8825 t=50
+te quan 	特權	c=0 d=0.1 t=20
+wei 	未	c=1 d=1 t=77
+wei 	爲	c=2 d=1.78441 t=75
+wei jia ru biao zhun 	爲加入標準	c=1 d=1 t=76
+wen jian xi tong 	文件系統	c=2 d=1.8825 t=83
+xian you 	鮮有	c=0 d=0.1 t=79
+xian you zhi chi 	鮮有支持	c=1 d=1 t=80
+xiang tong 	相同	c=1 d=1 t=64
+xiu gai 	修改	c=1 d=1.16464 t=82
+xiu gai qing qiu 	修改請求	c=1 d=1 t=71
+yong hu 	用戶	c=3 d=2.92644 t=59
+you xiao 	有效	c=1 d=1.04176 t=38
+you xiao yong hu 	有效用戶	c=3 d=2.82868 t=63
+yu 	與	c=1 d=1 t=62
+yuan zi 	原子	c=0 d=0.1 t=67
+yuan zi cao zuo 	原子操作	c=1 d=1 t=68
+zhi 	值	c=0 d=0.186071 t=44
+zhi chi 	支持	c=0 d=0.1 t=79
+zhi ding 	制定	c=1 d=1 t=16
+zhi ding 	指定	c=1 d=1 t=17
+zhi zhong 	之中	c=1 d=1 t=42
+zhong 	中	c=1 d=1 t=32
+zong shi 	總是	c=0 d=0.1 t=56
+zong shi jiang 	總是將	c=1 d=1 t=57
+zuo 	做	c=3 d=2.87751 t=55

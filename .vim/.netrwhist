@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/sinow/.initsrc'
 let g:netrw_dirhist_7='/home/sinow/.config/ranger'
 let g:netrw_dirhist_6='/home/sinow/.config/ranger/plugins'
 let g:netrw_dirhist_5='/home/sinow/.config/ranger'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_2='/home/sinow/.initsrc'
 let g:netrw_dirhist_1='/home/sinow/workspace/git/Sissue/.git'
 let g:netrw_dirhist_0='/home/sinow/.config/go'
 let g:netrw_dirhist_9='/home/sinow/.i3'
-let g:netrw_dirhist_8='/home/sinow/.initsrc'

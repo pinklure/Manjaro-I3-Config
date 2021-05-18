@@ -32,9 +32,15 @@
 #!.config/
 #!.conf
 
+
 !.i3/
 !.icons/
 !.initsrc/
+!.local/
+.local/*
+!.local/share/
+.local/share/*
+!.local/share/fcitx5/
 !.moc
 !.screenlayout/
 !.sunpinyin/
