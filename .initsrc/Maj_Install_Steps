@@ -1,58 +1,73 @@
-1、修改 .Xresources dpi 
-2、安装 linux 翻墙包
-3、git clone https://github.com/SinowX/Manjaro-I3-Config，恢复home目录中的配置文件
-\cp -r `ls -al | grep '\B\.[^.].*' -o` ~/  //将clone下来的文件复制到home目录
-4、配置国内镜像源
-sudo pacman-mirrors -i -c China -m rank
-sudo nano /etc/pacman.conf
+1. 修改 .Xresources dpi 
 
-vim /etc/pacman.conf
-[archlinuxcn]
-Server = https://mirrors.aliyun.com/archlinuxcn/$arch
-//SigLevel 不用
+2. 安装 linux 翻墙包
 
-pacman-mirrors -g //使配置生效
+3. git clone https://github.com/SinowX/Manjaro-I3-Config，恢复home目录中的配置文件
+  \cp -r `ls -al | grep '\B\.[^.].*' -o` ~/  //将clone下来的文件复制到home目录
 
-pacman -Sy 更新本地包数据库
+4. 配置国内镜像源
+  sudo pacman-mirrors -i -c China -m rank
+  sudo nano /etc/pacman.conf
 
-pacman -S wqy-microhei 解决中文方块问题
+  vim /etc/pacman.conf
+  [archlinuxcn]
+  Server = https://mirrors.aliyun.com/archlinuxcn/$arch
+  //SigLevel 不用
+  pacman-mirrors -g //使配置生效
 
-pacman -Syyu //全面更新系统
+  pacman -Sy 更新本地包数据库
 
-pacman -S archlinuxcn-keyring //防止PGP签名错误
+  pacman -S wqy-microhei 解决中文方块问题
 
-5、双系统同步时间
-timedatectl status 
-timedatectl set-local-rtc true
+  pacman -Syyu //全面更新系统
 
-vim /etc/systemd/timesyncd.conf
-取消#NTP的注释
-改为
-NTP=time1.aliyun.com time2.aliyun.com time3.aliyun.com time4.aliyun.com time5.aliyun.com time6.aliyun.com time7.aliyun.com
+  pacman -S archlinuxcn-keyring //防止PGP签名错误
 
-6、优化中文显示效果
+5. 双系统同步时间
+  timedatectl status 
+  timedatectl set-local-rtc true
 
-先安装
-sudo pacman -S ttf-roboto noto-fonts ttf-dejavu
-# 文泉驿
-sudo pacman -S wqy-bitmapfont wqy-microhei wqy-microhei-lite wqy-zenhei
-# 思源字体
-sudo pacman -S noto-fonts-cjk adobe-source-han-sans-cn-fonts adobe-source-han-serif-cn-fonts</pre>
+  vim /etc/systemd/timesyncd.conf
+  取消#NTP的注释
+  改为
+  NTP=time1.aliyun.com time2.aliyun.com time3.aliyun.com time4.aliyun.com time5.aliyun.com time6.aliyun.com time7.aliyun.com
 
-编辑 ~/.config/fontconfig/fonts.conf
-此处应该在 clone git 项目时已经做好
+6. 优化中文显示效果
 
-7、安装fcitx
-pacman -S fcitx fcitx-m fcitx-configtool
-pacman -S fcitx-sunpinyin
-编辑 ~/.xprofile
-此处应该在 clone git 项目时已经做好
+   先安装
+   sudo pacman -S ttf-roboto noto-fonts ttf-dejavu
+   文泉驿
+   sudo pacman -S wqy-bitmapfont wqy-microhei wqy-microhei-lite wqy-zenhei
 
+   思源字体
 
-8、解决locate使用问题
-sudo updatedb && locate -e bench-repo
+   sudo pacman -S noto-fonts-cjk adobe-source-han-sans-cn-fonts adobe-source-han-serif-cn-fonts
 
-9、pkg list
+   编辑 ~/.config/fontconfig/fonts.conf
+   此处应该在 clone git 项目时已经做好
+
+7. 安装fcitx
+   pacman -S fcitx fcitx-m fcitx-configtool
+   pacman -S fcitx-sunpinyin
+   编辑 ~/.xprofile
+   此处应该在 clone git 项目时已经做好
+
+8. 解决locate使用问题
+   sudo updatedb && locate -e bench-repo
+
+9. 主题说明
+
+   使用软件 lxappearance (custom look and feel)
+
+   默认使用 /usr/share/themes/ 中的主题，其配置保存在 ~/.gtkrc-2.0 ~/.config/gtk-3.0/settings.ini 两个配置文件中
+
+   真正生效的配置文件为 .gtkrc-2.0 
+
+   由于gtk-3.0 是其他包的依赖，所以保留
+
+   鼠标指针样式在 lxappearance 修改后保存在 ~/.icons/default/index.theme 中，但不会生效
+
+10. pkg list
 
 * xfce4-terminal
 * yay
@@ -70,5 +85,13 @@ sudo updatedb && locate -e bench-repo
 * firefox
 * visual-studio-code-bin
 * skypeforlinux-stable-bin
+* manjaro-i3-settings
 
+11. remove list
+
+* kvantum-manjaro
+* qt5ct
+* palemoon-bin
+* UXTerm
+* xterm
 

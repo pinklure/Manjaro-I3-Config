@@ -15,13 +15,13 @@
 !.config/gconf/
 !.config/gtk-3.0/
 !.config/i3status/
-!.config/Kvantum/
+#!.config/Kvantum/
 !.config/libfm/
 !.config/morc_menu/
 !.config/Mousepad/
 !.config/nitrogen/
 !.config/pcmanfm/
-!.config/at5ct/
+#!.config/qt5ct/
 !.config/ranger/
 #!.config/Typora/
 !.config/xfce4/
