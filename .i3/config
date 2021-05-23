@@ -1,11 +1,11 @@
 mouse_warping none
 
 
-
 # Bindsym
 #bindsym Mod1+Shift+v exec --no-startup-id /home/sinow/ProgramFile/qv2ray/qv2ray
 bindsym Mod1+Shift+a exec --no-startup-id flameshot gui
 #bindsym Mod1+Shift+d exec --no-startup-id killall -s 9 qv2ray
+
 
 # Auto Exec
 #exec --no-startup-id /home/sinow/ProgramFile/qv2ray/qv2ray
@@ -244,6 +244,8 @@ for_window [class="qv2ray"] floating enable, resize set 1100px 760px
 for_window [class="TIM.exe"] floating enable, resize set 1100px 760px
 for_window [class="baidunetdisk"] floating enable, resize set 1280px 800px
 for_window [class="flameshot"] floating enable
+for_window [class="freechat"] floating enable
+for_window [class="Freechat"] floating enable
 
 # switch to workspace with urgent window automatically
 for_window [urgent=latest] focus

@@ -1,4 +1,6 @@
 [Hotkey]
+# Trigger Input Method
+TriggerKeys=
 # Enumerate when press trigger key repeatedly
 EnumerateWithTriggerKeys=False
 # Temporally switch between first and current Input Method
@@ -27,9 +29,6 @@ PrevCandidate=
 NextCandidate=
 # Toggle embedded preedit
 TogglePreedit=
-
-[Hotkey/TriggerKeys]
-0=Control+space
 
 [Behavior]
 # Active By Default

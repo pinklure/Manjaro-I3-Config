@@ -152,8 +152,9 @@ alias ll='ls -l --color=always'
 alias la='ls -a --color=always'
 alias lla='ls -al --color=always'
 alias env='env | sort'
-alias restore='/home/sinow/.screenlayout/mylayout.sh  && sleep 1 && nohup  nitrogen --restore >/dev/null 2>&1 &'
-
+alias double='/home/sinow/.screenlayout/DOUBLE.sh  && sleep 1 && nohup  nitrogen --restore >/dev/null 2>&1 &'
+alias hdmi='/home/sinow/.screenlayout/HDMI.sh  && sleep 1 && nohup  nitrogen --restore >/dev/null 2>&1 &'
+alias edp='/home/sinow/.screenlayout/EDP.sh  && sleep 1 && nohup  nitrogen --restore >/dev/null 2>&1 &'
 
 #export HISTSIZE=2000
 #export HISTFILESIZE=2000
@@ -165,3 +166,5 @@ export HISTFILESIZE=1000
 alias path='echo $PATH | tr ":" "\n" |sort'
 
 alias term='xfce4-terminal'
+alias tim='/opt/apps/com.qq.office.deepin/files/run.sh'
+alias kim='killall -s 9 TIM.exe wineserver winedevice.exe QQProtect.exe'

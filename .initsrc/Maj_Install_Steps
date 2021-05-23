@@ -95,3 +95,6 @@
 * UXTerm
 * xterm
 
+
+12. GO国内节点
+go env -w GOPROXY=https://goproxy.cn,direct

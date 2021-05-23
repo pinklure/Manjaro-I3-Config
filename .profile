@@ -20,5 +20,4 @@ export BROWSER=google-chrome-stable
 #export GO111MODULE=off
 # 配置 GOPROXY 环境变量
 #export GOPROXY=https://goproxy.cn,direct
-
 #export PATH=$PATH:/home/sinow/go/bin
