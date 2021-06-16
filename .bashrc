@@ -168,3 +168,5 @@ alias path='echo $PATH | tr ":" "\n" |sort'
 alias term='xfce4-terminal'
 alias tim='/opt/apps/com.qq.office.deepin/files/run.sh'
 alias kim='killall -s 9 TIM.exe wineserver winedevice.exe QQProtect.exe'
+
+alias node='node --use_strict'

@@ -43,3 +43,4 @@ application/x-bittorrent=deluge.desktop;
 text/markdown=typora.desktop;firefox.desktop;
 application/wps-office.doc=wps-office-wps.desktop;
 application/epub+zip=calibre-ebook-viewer.desktop;
+video/mp4=firefox.desktop;google-chrome.desktop;

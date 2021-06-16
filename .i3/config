@@ -10,7 +10,7 @@ bindsym Mod1+Shift+a exec --no-startup-id flameshot gui
 # Auto Exec
 #exec --no-startup-id /home/sinow/ProgramFile/qv2ray/qv2ray
 exec --no-startup-id albert
-exec --no-startup-id /home/sinow/.screenlayout/mylayout.sh
+#exec --no-startup-id /home/sinow/.screenlayout/mylayout.sh
 #exec --no-startup-id /home/sinow/ProgramFile/qv2ray/qv2ray
 # exec /home/sinow/.screenlayout/dualScreen.sh
 exec --no-startup-id fcitx5
@@ -246,6 +246,9 @@ for_window [class="baidunetdisk"] floating enable, resize set 1280px 800px
 for_window [class="flameshot"] floating enable
 for_window [class="freechat"] floating enable
 for_window [class="Freechat"] floating enable
+for_window [class="VirtualBox Machine"] floating enable, resize set 1100px 760px
+
+
 
 # switch to workspace with urgent window automatically
 for_window [urgent=latest] focus
