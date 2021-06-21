@@ -10,11 +10,11 @@
   },
   "main_window_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAD////+/////gAAAhwAAAK9AAAAAAAAAAAAAAIaAAACuwAAAAAAAAAABDgAAAAAAAAAAAAAAhoAAAK7"
+    "__value__": "AdnQywADAAAAAAKA/////gAABQIAAAK9AAACggAAAAAAAAUAAAACuwAAAAAAAAAABQAAAAKCAAAAAAAABQAAAAK7"
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAADjAAACvPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAACvAAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmQD///8AAAABAAABAAAAArz8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB/AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAAAAACvAAAAOkA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAACGwAAArwAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAADjAAACvPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAACvAAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAABAAAAArz8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAAAAACvAAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAACfwAAArwAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "session_data": {
@@ -49,7 +49,7 @@
     },
     "lines_per_sec_smooth": 5,
     "override_book_colors": "always",
-    "read_mode": "flow",
+    "read_mode": "paged",
     "right-margin": {
       "left": "empty",
       "middle": "empty",
@@ -69,7 +69,7 @@
         ],
         "key": "/home/sinow/Documents/程序员的自我修养.epub",
         "pathtoebook": "/home/sinow/Documents/程序员的自我修养.epub",
-        "timestamp": "2021-05-11T12:39:58.289Z",
+        "timestamp": "2021-06-16T05:48:01.616Z",
         "title": "程序员的自我修养：链接、装载与库"
       }
     ],

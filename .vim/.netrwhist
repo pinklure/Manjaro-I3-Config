@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/etc/pacman.d/gnupg'
 let g:netrw_dirhist_5='/etc/clash'
 let g:netrw_dirhist_4='/home/sinow/workspace/python/Reinforcement-learning-with-tensorflow'
 let g:netrw_dirhist_3='/home/sinow/.pip'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_0='/usr/share'
 let g:netrw_dirhist_9='/usr/share/applications'
 let g:netrw_dirhist_8='/home/sinow/.initsrc'
 let g:netrw_dirhist_7='/home/sinow/.config/ranger'
-let g:netrw_dirhist_6='/home/sinow/.config/ranger/plugins'
