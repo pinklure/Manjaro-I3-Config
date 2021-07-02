@@ -1,8 +1,9 @@
 [Configuration]
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBellUrgent=FALSE
-MiscBordersDefault=FALSE
+MiscBordersDefault=TRUE
 MiscCursorBlinks=FALSE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
 MiscDefaultGeometry=80x24
@@ -26,10 +27,6 @@ MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
-ColorPalette=rgb(0,0,0);rgb(233,65,65);rgb(0,170,0);rgb(170,85,0);rgb(20,20,191);rgb(170,0,170);rgb(34,248,248);rgb(170,170,170);rgb(166,166,166);rgb(255,85,85);rgb(69,255,76);rgb(255,228,84);rgb(59,179,247);rgb(255,85,202);rgb(91,249,249);rgb(255,255,255)
-ColorBackground=#000000000000
-BackgroundDarkness=0.600000
-CommandLoginShell=TRUE
-ColorForeground=#f257f257f257
-BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
+FontName=DejaVu Sans Mono 12
+ColorPalette=rgb(0,0,0);rgb(170,0,0);rgb(0,170,0);rgb(170,85,0);rgb(0,0,170);rgb(170,0,170);rgb(0,170,170);rgb(170,170,170);rgb(85,85,85);rgb(255,85,85);rgb(85,255,85);rgb(255,255,85);rgb(0,148,255);rgb(255,85,255);rgb(85,255,255);rgb(255,255,255)
 

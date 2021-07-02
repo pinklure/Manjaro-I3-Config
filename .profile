@@ -1,6 +1,7 @@
 export QT_QPA_PLATFORMTHEME="qt5ct"
 export EDITOR=/usr/bin/vim
 export GTK2_RC_FILES="$HOME/.gtkrc-2.0"
+#export GTK_THEME=AWEL-Lumine
 # fix "xdg-open fork-bomb" export your preferred browser from here
 export BROWSER=google-chrome-stable
 #export http_proxy=http://localhost:8889
