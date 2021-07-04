@@ -1,12 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/sinow/.config/i3'
+let g:netrw_dirhist_3='/home/sinow/.config/ranger'
 let g:netrw_dirhist_2='/home/sinow/.config/i3'
 let g:netrw_dirhist_1='/home/sinow/.config/polybar'
 let g:netrw_dirhist_0='/home/sinow/.config/i3'
 let g:netrw_dirhist_9='/home/sinow/.git'
 let g:netrw_dirhist_8='/home/sinow/.config'
 let g:netrw_dirhist_7='/home/sinow/.config/i3'
-let g:netrw_dirhist_6='/etc/pacman.d/gnupg'
-let g:netrw_dirhist_5='/etc/clash'
-let g:netrw_dirhist_4='/home/sinow/workspace/python/Reinforcement-learning-with-tensorflow'
-let g:netrw_dirhist_3='/home/sinow/.pip'
+let g:netrw_dirhist_6='/home/sinow/Downloads'
+let g:netrw_dirhist_5='/home/sinow/.config/polybar'

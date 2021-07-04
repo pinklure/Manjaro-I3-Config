@@ -5,26 +5,30 @@
 .config/*
 !.config/albert/
 !.config/autostart/
-!.config/calibre/
-!.config/clash/
+!.config/clipit/
 !.config/dmenu-recent/
 !.config/dunst/
+!.config/fcitx/
 !.config/fcitx5/
 !.config/flameshot/
 !.config/fontconfig/
 !.config/gconf/
+!.config/gtk-2.0/
 !.config/gtk-3.0/
-!.config/i3status/
+!.config/i3/
 #!.config/Kvantum/
 !.config/libfm/
 !.config/morc_menu/
 !.config/Mousepad/
 !.config/nitrogen/
-!.config/pcmanfm/
 #!.config/qt5ct/
 !.config/ranger/
+!.config/rofi/
+!.config/Thunar/
 #!.config/Typora/
+!.config/volumeicon/
 !.config/xfce4/
+!.config/zathura/
 !.config/mimeapps.list
 !.config/picom.conf
 !.config/picom.conf
@@ -33,17 +37,18 @@
 #!.conf
 
 
-!.i3/
 !.icons/
 !.initsrc/
+
+
 !.local/
 .local/*
 !.local/share/
 .local/share/*
-!.local/share/fcitx5/
-!.moc
+
+
+
 !.screenlayout/
-!.sunpinyin/
 !.vim/
 
 
