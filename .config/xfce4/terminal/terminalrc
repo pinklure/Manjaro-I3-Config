@@ -1,5 +1,4 @@
 [Configuration]
-BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 MiscAlwaysShowTabs=FALSE
 MiscBell=TRUE
 MiscBellUrgent=TRUE
@@ -32,4 +31,9 @@ ColorPalette=rgb(0,0,0);rgb(170,0,0);rgb(0,170,0);rgb(170,85,0);rgb(0,0,170);rgb
 ShortcutsNoMenukey=TRUE
 ShortcutsNoHelpkey=TRUE
 ShortcutsNoMnemonics=TRUE
+BackgroundImageFile=/home/sinow/.initsrc/flowmask.png
+BackgroundImageStyle=TERMINAL_BACKGROUND_STYLE_CENTERED
+ColorBackground=#000000000000
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
+BackgroundDarkness=0.680000
 
