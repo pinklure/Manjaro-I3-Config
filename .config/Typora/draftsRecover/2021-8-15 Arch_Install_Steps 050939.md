@@ -93,7 +93,6 @@
      - 改为
      - `NTP=time1.aliyun.com time2.aliyun.com time3.aliyun.com time4.aliyun.com time5.aliyun.com time6.aliyun.com time7.aliyun.com`
    - timedatectl set-timezone UTC 
-   - timedatectl set-ntp true
 
 9. 本地化
 
@@ -249,7 +248,7 @@
 
 
 
-- 
+
 
 
 
