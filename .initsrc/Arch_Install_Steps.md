@@ -241,10 +241,11 @@
      
      pacman -S xfce4-power-manager
      
+     pacman -S base-devel
      
      pacman -S noto-fonts-emoji noto-fonts-emoji-blob //字体
      ```
-
+     
    - 
 
 

@@ -322,3 +322,36 @@ INFO 14/08/2021, 21:17:52  ----------------before-quit-----------------
 INFO 14/08/2021, 21:17:52  ------------------will-quit------------------
 INFO 14/08/2021, 21:17:52  -----------------quit------------------
 INFO 14/08/2021, 21:17:52  closeLogging
+INFO 14/08/2021, 21:32:16  ------------------start------------------
+INFO 14/08/2021, 21:32:16  typora version: 0.11.2
+INFO 14/08/2021, 21:32:16  addRecentDocument
+INFO 14/08/2021, 21:32:16  added recovery 1 /home/sinow/.initsrc/Arch_Install_Steps.md undefined (0)
+INFO 14/08/2021, 21:32:16  [Raven] instanceKey = bc766043-a62a-42d0-a043-ccea079e5e04
+INFO 14/08/2021, 21:32:16  [focus] 1
+INFO 14/08/2021, 21:32:16  [Raven] userId = cdcf049d-9b7a-4967-b8bc-c908f7000411
+INFO 14/08/2021, 21:32:16  synced recovery
+INFO 14/08/2021, 21:32:19  handle document.loadInitData
+INFO 14/08/2021, 21:32:19  added recovery 1 /home/sinow/.initsrc/Arch_Install_Steps.md undefined (0)
+INFO 14/08/2021, 21:32:19  synced recovery
+INFO 14/08/2021, 21:32:23  added recovery 1 /home/sinow/.initsrc/Arch_Install_Steps.md "### git 仓库
+
+- g...ogoupinyin
+```
+" (5010)
+INFO 14/08/2021, 21:32:23  synced recovery
+INFO 14/08/2021, 21:32:24  added recovery 1 /home/sinow/.initsrc/Arch_Install_Steps.md "### git 仓库
+
+- g...ogoupinyin
+```
+" (5012)
+INFO 14/08/2021, 21:32:24  synced recovery
+INFO 14/08/2021, 21:32:24  added recovery 1 /home/sinow/.initsrc/Arch_Install_Steps.md "### git 仓库
+
+- g...ogoupinyin
+```
+" (5011)
+INFO 14/08/2021, 21:32:24  synced recovery
+INFO 14/08/2021, 21:32:29  added recovery 1 /home/sinow/.initsrc/Arch_Install_Steps.md null (0)
+INFO 14/08/2021, 21:32:29  synced recovery
+INFO 14/08/2021, 21:32:30  [blur] 1
+INFO 14/08/2021, 21:32:30  [win] blur
