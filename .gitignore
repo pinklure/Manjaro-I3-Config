@@ -12,6 +12,8 @@
 !.config/fcitx/
 !.config/fcitx5/
 !.config/flameshot/
+!.config/fluent-reader/
+
 !.config/fontconfig/
 !.config/gconf/
 !.config/gtk-2.0/

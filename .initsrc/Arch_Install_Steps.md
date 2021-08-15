@@ -204,8 +204,10 @@
      pacman -S mlocate // locate
      
      pacman -S ranger 
+     
+     pacman -S ueberzug // preview images
      pacman -S python-pdftotext // ranger 预览 pdf
-     yay -S ttf-all-the-icons
+     yay -S ttf-all-the-icons // ranger icons
      
      
      pacman -S vlc // 视频播放器
@@ -262,3 +264,9 @@
 pacman -S fcitx fcitx-qt5 fcitx-configtool
 yay -S fcitx-sogoupinyin
 ```
+
+
+//polybar fonts
+yay -S otf-apple-sf-pro
+pacman -S arc-icon-theme
+pacman -S qogir-icon-theme

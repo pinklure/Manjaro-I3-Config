@@ -1,0 +1,15 @@
+{
+	"useNeDB": false,
+	"version": "1.0.2",
+	"menuOn": false,
+	"sourceGroups": [
+		{
+			"isMultiple": false,
+			"sids": [
+				0
+			]
+		}
+	],
+	"view": 3,
+	"pacOn": false
+}

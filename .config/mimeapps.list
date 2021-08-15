@@ -1,5 +1,8 @@
 [Added Associations]
 application/octet-stream=mousepad.desktop;
+image/png=viewnior.desktop;
+application/x-mswinurl=google-chrome.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
 
 [Default Applications]
 text/html=google-chrome.desktop
@@ -7,3 +10,6 @@ x-scheme-handler/http=google-chrome.desktop
 x-scheme-handler/https=google-chrome.desktop
 x-scheme-handler/about=google-chrome.desktop
 x-scheme-handler/unknown=google-chrome.desktop
+image/png=viewnior.desktop
+x-scheme-handler/baiduyunguanjia=baidunetdisk.desktop
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop
