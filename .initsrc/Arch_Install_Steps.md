@@ -181,6 +181,7 @@
 4. 安装字体
 
    - 中文字体 
+
    - ~/.config/fontconfig/fonts.conf 在git 中已配置好
 
    - ```bash
@@ -188,6 +189,11 @@
      pacman -S wqy-bitmapfont wqy-microhei wqy-microhei-lite wqy-zenhei
      pacman -S noto-fonts-cjk adobe-source-han-sans-cn-fonts adobe-source-han-serif-cn-fonts
      ```
+     
+   - 安装仿宋、宋、黑体、楷体
+
+     - 文件在 windowsFonts中，将其复制到 /usr/share/fonts 下
+     - 刷新字体缓存 `fc-cache /usr/share/fonts/` 或者 `fc-cache -fv`
 
 5. 安装工具
 
@@ -270,3 +276,8 @@ yay -S fcitx-sogoupinyin
 yay -S otf-apple-sf-pro
 pacman -S arc-icon-theme
 pacman -S qogir-icon-theme
+
+
+
+
+

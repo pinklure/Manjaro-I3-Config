@@ -27,7 +27,7 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 FontName=DejaVu Sans Mono 12
-ColorPalette=rgb(0,0,0);rgb(170,0,0);rgb(0,170,0);rgb(170,85,0);rgb(0,0,170);rgb(170,0,170);rgb(0,170,170);rgb(170,170,170);rgb(85,85,85);rgb(255,85,85);rgb(85,255,85);rgb(255,255,85);rgb(0,148,255);rgb(255,85,255);rgb(85,255,255);rgb(255,255,255)
+ColorPalette=rgb(0,0,0);rgb(253,73,73);rgb(0,170,0);rgb(255,128,0);rgb(0,0,170);rgb(170,0,170);rgb(0,170,170);rgb(170,170,170);rgb(85,85,85);rgb(255,100,100);rgb(85,255,85);rgb(255,255,85);rgb(0,148,255);rgb(255,131,255);rgb(85,255,255);rgb(255,255,255)
 ShortcutsNoMenukey=TRUE
 ShortcutsNoHelpkey=TRUE
 ShortcutsNoMnemonics=TRUE
@@ -35,5 +35,5 @@ BackgroundImageFile=/home/sinow/.initsrc/flowmask.png
 BackgroundImageStyle=TERMINAL_BACKGROUND_STYLE_CENTERED
 ColorBackground=#000000000000
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
-BackgroundDarkness=0.680000
+BackgroundDarkness=0.540000
 

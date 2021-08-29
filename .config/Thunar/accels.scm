@@ -40,6 +40,7 @@
 ; (gtk_accel_path "<Actions>/ThunarBookmarks/296e8aea2a56e737d8a0b91e6279465f" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-side-pane-tree" "<Primary>e")
 ; (gtk_accel_path "<Actions>/ThunarShortcutsPane/sendto-shortcuts" "")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/8c90792e32c8d0903775685f30384704" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/rename" "F2")
 ; (gtk_accel_path "<Actions>/ThunarWindow/toggle-side-pane" "F9")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-home" "<Alt>Home")

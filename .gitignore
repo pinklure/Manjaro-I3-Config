@@ -5,14 +5,14 @@
 !.config/
 .config/*
 !.config/albert/
-!.config/autostart/
+#!.config/autostart/
 !.config/clipit/
 !.config/dmenu-recent/
 !.config/dunst/
 !.config/fcitx/
 !.config/fcitx5/
 !.config/flameshot/
-!.config/fluent-reader/
+#!.config/fluent-reader/
 
 !.config/fontconfig/
 !.config/gconf/

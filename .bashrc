@@ -146,8 +146,6 @@ ex ()
 alias dockrmall='docker stop $(docker ps -qa) && docker rm $(docker ps -qa)'
 #alias vscode=/opt/visual-studio-code/code
 #alias skype=skypeforlinux
-alias skype='https_proxy=localhost:7890 skypeforlinux'
-alias pip='https_proxy=http://localhost:7890 pip'
 alias ll='ls -l --color=always'
 alias la='ls -a --color=always'
 alias lla='ls -al --color=always'
@@ -161,7 +159,7 @@ alias edp='/home/sinow/.screenlayout/EDP.sh  && sleep 1 && nohup  nitrogen --res
 export HISTSIZE=1000
 export HISTFILESIZE=1000
 
-#alias go='https_proxy=127.0.0.1:7890 go'
+#alias go='https_proxy='https_proxy='https_proxy='https_proxy=127.0.0.1:7890 go'
 
 alias path='echo $PATH | tr ":" "\n" |sort'
 
@@ -173,3 +171,6 @@ alias node='node --use_strict'
 alias brow='google-chrome-stable'
 alias mtvb='sudo mount /dev/sda5 /home/sinow/vbspace && chown -R sinow:sinow /home/sinow/vbspace'
 alias utvb='sudo umount /dev/sda5'
+#export http_proxy=''
+#export ftp_proxy=''
+#export socks_proxy=''
