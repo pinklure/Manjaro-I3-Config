@@ -1,12 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/etc/libinput'
+let g:netrw_dirhist_7='/home/sinow/.screenlayout'
+let g:netrw_dirhist_6='/home/sinow/.yarn'
+let g:netrw_dirhist_5='/etc/sysctl.d'
 let g:netrw_dirhist_4='/home/sinow/.config/polybar'
 let g:netrw_dirhist_3='/home/sinow/.dosbox'
 let g:netrw_dirhist_2='/home/sinow/.initsrc'
 let g:netrw_dirhist_1='/usr/share/sddm'
 let g:netrw_dirhist_0='/usr/share/sddm/themes'
 let g:netrw_dirhist_9='/home/sinow/.config/xfce4/xfconf/xfce-perchannel-xml'
-let g:netrw_dirhist_8='/home/sinow/.config/xfce4/xfconf'
-let g:netrw_dirhist_7='/home/sinow/.config/xfce4'
-let g:netrw_dirhist_6='/home/sinow/.config/xfce4/terminalback'
-let g:netrw_dirhist_5='/home/sinow/.config/xfce4'

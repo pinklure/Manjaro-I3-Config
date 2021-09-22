@@ -4,3 +4,6 @@ xrandr --output eDP1 --mode 2160x1440 --pos 400x1440 --rotate normal --output DP
 killall -s 9 polybar
 MONITOR=eDP1 nohup polybar --reload i3mainbar >/dev/null 2>&1 &
 
+killall -s 9 fcitx
+
+nohup fcitx >/dev/null 2>&1 &

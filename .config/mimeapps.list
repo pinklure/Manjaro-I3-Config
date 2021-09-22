@@ -2,8 +2,10 @@
 application/octet-stream=mousepad.desktop;
 image/png=viewnior.desktop;
 application/x-mswinurl=google-chrome.desktop;
-application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+application/pdf=wps-office-pdf.desktop;org.pwmt.zathura-pdf-mupdf.desktop;
 text/x-qml=mousepad.desktop;
+text/html=sublime_text.desktop;visual-studio-code.desktop;mousepad.desktop;
+application/javascript=visual-studio-code.desktop;sublime_text.desktop;
 
 [Default Applications]
 application/epub+zip=org.pwmt.zathura-pdf-mupdf.desktop;xarchiver.desktop;
@@ -227,11 +229,11 @@ audio/x-wav=netease-cloud-music.desktop;vlc.desktop;
 audio/x-wavpack=vlc.desktop;
 audio/x-xm=vlc.desktop;
 image/bmp=viewnior.desktop;
-image/gif=google-chrome.desktop;viewnior.desktop;
-image/jpeg=google-chrome.desktop;viewnior.desktop;
+image/gif=viewnior.desktop;
+image/jpeg=viewnior.desktop;
 image/jpg=viewnior.desktop;
 image/pjpeg=viewnior.desktop;
-image/png=google-chrome.desktop;viewnior.desktop;
+image/png=viewnior.desktop;
 image/svg+xml=viewnior.desktop;
 image/svg+xml-compressed=viewnior.desktop;
 image/tiff=viewnior.desktop;

@@ -146,13 +146,14 @@ ex ()
 alias dockrmall='docker stop $(docker ps -qa) && docker rm $(docker ps -qa)'
 #alias vscode=/opt/visual-studio-code/code
 #alias skype=skypeforlinux
-alias ll='ls -l --color=always'
+alias ll='ls -lh --color=always'
 alias la='ls -a --color=always'
-alias lla='ls -al --color=always'
+alias lla='ls -alh --color=always'
 alias env='env | sort'
 alias double='/home/sinow/.screenlayout/DOUBLE.sh  && sleep 1 && nohup  nitrogen --restore >/dev/null 2>&1 &'
 alias hdmi='/home/sinow/.screenlayout/HDMI.sh  && sleep 1 && nohup  nitrogen --restore >/dev/null 2>&1 &'
 alias edp='/home/sinow/.screenlayout/EDP.sh  && sleep 1 && nohup  nitrogen --restore >/dev/null 2>&1 &'
+alias vertical='/home/sinow/.screenlayout/VERTICAL.sh  && sleep 1 && nohup  nitrogen --restore >/dev/null 2>&1 &'
 
 #export HISTSIZE=2000
 #export HISTFILESIZE=2000
@@ -174,3 +175,5 @@ alias utvb='sudo umount /dev/sda5'
 #export http_proxy=''
 #export ftp_proxy=''
 #export socks_proxy=''
+alias aliyun='ssh sinow@sinow.top'
+alias mancn='man --locale=zh_CN'
