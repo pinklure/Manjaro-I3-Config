@@ -177,3 +177,7 @@ alias utvb='sudo umount /dev/sda5'
 #export socks_proxy=''
 alias aliyun='ssh sinow@sinow.top'
 alias mancn='man --locale=zh_CN'
+
+alias status='systemctl status'
+alias stop='systemctl stop'
+alias start='systemctl start'
