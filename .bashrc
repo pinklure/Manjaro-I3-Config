@@ -176,8 +176,13 @@ alias utvb='sudo umount /dev/sda5'
 #export ftp_proxy=''
 #export socks_proxy=''
 alias aliyun='ssh sinow@sinow.top'
+alias euler='ssh root@139.9.139.128'
+
 alias mancn='man --locale=zh_CN'
 
 alias status='systemctl status'
 alias stop='systemctl stop'
 alias start='systemctl start'
+alias ip='ip -c'
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash

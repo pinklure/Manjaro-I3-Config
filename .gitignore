@@ -1,16 +1,16 @@
 /*
 
 #DIR
-!.sogouinput
+#!.sogouinput
 !.config/
 .config/*
-!.config/albert/
+#!.config/albert/
 #!.config/autostart/
 !.config/clipit/
 !.config/dmenu-recent/
 !.config/dunst/
-!.config/fcitx/
-!.config/fcitx5/
+#!.config/fcitx/
+#!.config/fcitx5/
 !.config/flameshot/
 #!.config/fluent-reader/
 
@@ -23,7 +23,7 @@
 !.config/libfm/
 !.config/morc_menu/
 !.config/Mousepad/
-!.config/nitrogen/
+#!.config/nitrogen/
 #!.config/qt5ct/
 !.config/ranger/
 !.config/rofi/
@@ -52,7 +52,7 @@
 
 
 !.screenlayout/
-!.vim/
+#!.vim/
 
 
 #File

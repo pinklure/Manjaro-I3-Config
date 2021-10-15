@@ -2,7 +2,7 @@
 application/octet-stream=mousepad.desktop;
 image/png=viewnior.desktop;
 application/x-mswinurl=google-chrome.desktop;
-application/pdf=wps-office-pdf.desktop;org.pwmt.zathura-pdf-mupdf.desktop;
+application/pdf=firefox.desktop;wps-office-pdf.desktop;org.pwmt.zathura-pdf-mupdf.desktop;
 text/x-qml=mousepad.desktop;
 text/html=sublime_text.desktop;visual-studio-code.desktop;mousepad.desktop;
 application/javascript=visual-studio-code.desktop;sublime_text.desktop;

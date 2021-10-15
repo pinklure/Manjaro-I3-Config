@@ -5,3 +5,4 @@
 	proxy = http://localhost:7890
 [http]
 	proxy = http://localhost:7890
+	sslVerify = false
